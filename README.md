@@ -6,7 +6,7 @@ The Microsoft Cybersecurity Incident Classification project aims to enhance the 
 
 # Data Exploration and Understanding
 
-#• Purpose:To understand the dataset's structure, feature types, target variable distribution, and patterns.  
+• Purpose:To understand the dataset's structure, feature types, target variable distribution, and patterns.  
 • Key Steps:
     ° Loaded and inspected the dataset (train.csv).
     ° Conducted Exploratory Data Analysis (EDA) to identify patterns, correlations, and anomalies.
@@ -14,7 +14,7 @@ The Microsoft Cybersecurity Incident Classification project aims to enhance the 
 # Data Preprocessing and Feature Engineering
 
 • Purpose: Prepare the dataset for modeling by addressing missing values and enhancing feature sets.
-• Key Steps:
+• Key Steps: 
    °  Handled missing data through imputation or row removal.
    °  Engineered new features and encoded categorical variables.
    
