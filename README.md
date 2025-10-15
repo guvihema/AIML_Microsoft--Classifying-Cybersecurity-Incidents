@@ -63,7 +63,16 @@ The Microsoft Cybersecurity Incident Classification project aims to enhance the 
 • Key Steps:
    ° Evaluated the model on a separate test set and compared results to the baseline.
 
-
+# Reporting
+Purpose: Document the entire process and provide recommendations.
+Sections:
+     Model Documentation: Rationale for model choices, challenges, and optimizations.
+     Recommendations:
+        Integration into SOC Workflows: Automate triage and prioritization.
+        Continuous Improvement: Regular updates with new data.
+        Feature Engineering and Refinement: Enhance model performance with additional features.
+        Handling Class Imbalance: Explore advanced techniques like cost-sensitive learning.
+        Real-World Deployment: Consider computational requirements and real-time data processing.
 
 
 
